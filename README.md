@@ -13,3 +13,5 @@ This application can easily match the person with similar hobbies
 
 you can access the app
 **https://localhost:3000/match/{id}**
+
+Note:id must be a number
