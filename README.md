@@ -10,3 +10,6 @@ After inserting dockerfile
 "**docker compose up**"
 
 This application can easily match the person with similar hobbies
+
+you can access the app
+**https://localhost:3000/match/{id}**
